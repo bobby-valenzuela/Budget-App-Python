@@ -163,5 +163,5 @@ def create_spend_chart(categories):
   name_rows_text = name_rows_text[0:-1]
   chart += name_rows_text
   
-  print(chart)
+
   return chart
